@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Cobalt2",
+    "editor.fontFamily": "Monaco, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.goroot": "C:/Go",
+    "go.gopath": "F:/GoSpace",
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.tpl": "html",
+    },
+    // Flags to pass to Lint tool (e.g. ["-min_confidence=.8"])
+    // "go.lintFlags": [
+    //     "--disable=all"
+    // ],
+    //"go.lintTool": "revive",
+}
